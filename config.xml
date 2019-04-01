@@ -41,6 +41,8 @@
 	<preference name="statusBarAppearance" value="true"/>
 
 	<permission name="internet" />
+	 
+	<permission name="fileSystem" />
 
   <preference name="appCertificateVerify" value="false" />
 

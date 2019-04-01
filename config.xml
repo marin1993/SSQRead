@@ -1,0 +1,47 @@
+ <widget id="A6071716237272"  version="0.0.1">
+
+    <name>悦读</name>
+
+    <description>
+
+        舒心自在，我的悦读
+
+    </description>
+
+    <author email="sang93@qq.com" href="https://saylove.site">
+
+        SANGSQ
+
+    </author>
+
+    <content src="http://127.0.0.1:8080/" />
+
+    <access origin="*" />
+
+    <preference name="userAgent" value="SSQRead"/>
+
+	<preference name="appBackground" value="rgba(0,0,0,0.0)"/>
+
+	<preference name="windowBackground" value="rgba(0,0,0,0.0)"/>
+
+	<preference name="frameBackgroundColor" value="rgba(0,0,0,0.0)"/>
+
+	<preference name="hScrollBarEnabled" value="false"/>
+
+	<preference name="vScrollBarEnabled" value="false"/>
+
+	<preference name="fullScreen" value="false"/>
+
+	<preference name="autoUpdate" value="false" />
+
+	<preference name="smartUpdate" value="false" />
+
+	<preference name="debug" value="false"/>
+
+	<preference name="statusBarAppearance" value="true"/>
+
+	<permission name="internet" />
+
+  <preference name="appCertificateVerify" value="false" />
+
+</widget>
